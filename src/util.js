@@ -8,7 +8,7 @@ function chillHop(){
           artist: "dryhope, Gustav Gustav",
           cover: "https://chillhop.com/wp-content/uploads/2020/07/2a048a5780723e66fff64c3a60814ea64761284f-300x300.jpg",
           id: uuidv4(),
-          active: false,
+          active: true,
           color: ['#431F3B','#F3C0C5'],
           audio: 'https://mp3.chillhop.com/serve.php/?mp3=9311'
 
